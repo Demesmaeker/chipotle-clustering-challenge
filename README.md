@@ -1,7 +1,16 @@
 # chipotle-clustering-challenge
 becode, team challenge
 
+### Must-have features
 
+- A visualisation of the USA with chipotle locations
+- Visualization of the different clusters
+- Intrinsic analysis comparison of the clusters of at least 2 methods with varying arguments (using euclidian distance as criteria)
+- A chosen centroid to live. Make your argument of why the chosen centroid is superior to others. Examples of arguments are:
+    - highest density
+    - greatest uninterrupted link of chipotle locations with smallest link-to-link distance
+    - ...
+- a Github page where results are visualized
 
 ## Steps
 - [X]  Create the repository
