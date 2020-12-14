@@ -4,7 +4,7 @@ becode, team challenge
 
 
 ## Steps
-- []  Create the repository
+- [X]  Create the repository
 - []  Install geopandas
 - []  Plot the US map
 - []  Visualize your data on this map
