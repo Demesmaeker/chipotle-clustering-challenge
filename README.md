@@ -14,10 +14,10 @@ becode, team challenge
 
 ## Steps
 - [X]  Create the repository
-- [ ]  Install geopandas
-- [ ]  Plot the US map
-- [ ]  Visualize your data on this map
-- [ ]  Plot a dendogram of your data to help you decide the appropropriate clustering resolution
-- [ ]  Compare and analyse different clustering methods using intrinsic analysis to decide on a chosen method.
-- [ ]  Choose a centroid/adress to live
+- [X]  Install geopandas
+- [X]  Plot the US map
+- [X]  Visualize your data on this map
+- [X]  Plot a dendogram of your data to help you decide the appropropriate clustering resolution
+- [X]  Compare and analyse different clustering methods using intrinsic analysis to decide on a chosen method.
+- [X]  Choose a centroid/adress to live
 - [ ]  Publish your results to a Github page with an explanation of your method.
