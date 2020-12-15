@@ -24,37 +24,60 @@ becode, team challenge
 
 ## Vizualisation
 
-*Dataset "chipotle_stores"*
+*Dataset "chipotle_stores" as "df"*
 
 ![chipotle_stores](/assets/img/chipotle_stores.png)
 
 *Dataset "states" using geopandas*
 
-![chipotle_stores](/assets/img/states.png)
+![states](/assets/img/states.png)
 
 At first we tried to draw the map of the states using geopandas...
 
-![chipotle_stores](/assets/img/states_map.png)
+![states_map](/assets/img/states_map.png)
 
 
 ...in order to be able to plot our points directly on the map.
 
-![chipotle_stores](/assets/img/chipotle_map.png)
+![chipotle_map](/assets/img/chipotle_map.png)
 
 ## Data analysis
 
+ Now we have to choosing only relevant states
+
+ ![value_counts](/assets/img/value_counts.png)
+
+Easy using this code 
+
+ ```py
+ df = df.groupby('state').filter(lambda x : len(x)>20)
+ ```
+
+And next ...
+
+- Check number of invalid metric entries.
+- Adjusting index
+
+Our map looks much clearer like this
+
+![chipotle_map](/assets/img/chipotle_map_2.png)
+
 ## Dendogram
 
-## Clusters
+![chipotle_map](/assets/img/dendogram.png)
+
+## Let's cluster all of that
+
+### Clusters
 ![cluster](https://user-images.githubusercontent.com/69633814/102191579-e5310900-3eb9-11eb-8877-50a2fa2ce0a7.png)
 
-## Center of Clusters
+### Center of Clusters
 ![Snip20201215_8](https://user-images.githubusercontent.com/69633814/102198357-9471de00-3ec2-11eb-9c05-d8e1e568f8df.png)
 
 
-## Clusters @ Califonia
+### Clusters @ Califonia
 ![ca](https://user-images.githubusercontent.com/69633814/102198170-5b396e00-3ec2-11eb-8925-ae24b12720f4.png)
 
-## Center of Clusters @ Califonia
+### Center of Clusters @ Califonia
 ![Snip20201215_7](https://user-images.githubusercontent.com/69633814/102198458-b1a6ac80-3ec2-11eb-8ef4-ac3f73a3c513.png)
 
