@@ -22,6 +22,29 @@ becode, team challenge
 - [X]  Choose a centroid/adress to live
 - [ ]  Publish your results to a Github page with an explanation of your method.
 
+## Vizualisation
+
+*Dataset "chipotle_stores"*
+
+![chipotle_stores](/assets/img/chipotle_stores.png)
+
+*Dataset "states" using geopandas*
+
+![chipotle_stores](/assets/img/states.png)
+
+At first we tried to draw the map of the states using geopandas...
+
+![chipotle_stores](/assets/img/states_map.png)
+
+
+...in order to be able to plot our points directly on the map.
+
+![chipotle_stores](/assets/img/chipotle_map.png)
+
+## Data analysis
+
+## Dendogram
+
 ## Clusters
 ![cluster](https://user-images.githubusercontent.com/69633814/102191579-e5310900-3eb9-11eb-8877-50a2fa2ce0a7.png)
 
