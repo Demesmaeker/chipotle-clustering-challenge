@@ -25,6 +25,8 @@ becode, team challenge
 ## Clusters
 ![cluster](https://user-images.githubusercontent.com/69633814/102191579-e5310900-3eb9-11eb-8877-50a2fa2ce0a7.png)
 
+## Center of Clusters
+![Snip20201215_8](https://user-images.githubusercontent.com/69633814/102198357-9471de00-3ec2-11eb-9c05-d8e1e568f8df.png)
 
 
 
