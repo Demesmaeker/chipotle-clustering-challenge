@@ -21,3 +21,6 @@ becode, team challenge
 - [X]  Compare and analyse different clustering methods using intrinsic analysis to decide on a chosen method.
 - [X]  Choose a centroid/adress to live
 - [ ]  Publish your results to a Github page with an explanation of your method.
+
+## Clusters
+![cluster](https://user-images.githubusercontent.com/69633814/102191579-e5310900-3eb9-11eb-8877-50a2fa2ce0a7.png)
