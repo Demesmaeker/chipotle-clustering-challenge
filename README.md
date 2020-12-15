@@ -24,3 +24,11 @@ becode, team challenge
 
 ## Clusters
 ![cluster](https://user-images.githubusercontent.com/69633814/102191579-e5310900-3eb9-11eb-8877-50a2fa2ce0a7.png)
+
+
+
+
+
+
+## Clusters @ Califonia
+![ca](https://user-images.githubusercontent.com/69633814/102198170-5b396e00-3ec2-11eb-8925-ae24b12720f4.png)
